@@ -1,0 +1,14 @@
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.csprojAssemblyReference.cache
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.csproj.CoreCompileInputs.cache
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.RazorAssemblyInfo.cache
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.RazorAssemblyInfo.cs
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.AssemblyInfoInputs.cache
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.AssemblyInfo.cs
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/bin/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.deps.json
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/bin/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.runtimeconfig.json
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/bin/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.runtimeconfig.dev.json
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/bin/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.dll
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/bin/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.pdb
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.RazorTargetAssemblyInfo.cache
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.dll
+/Users/shehryarkhan/Projects/DotNet-Core-Soap-Service-Example/obj/Debug/netcoreapp2.2/DotNet-Core-Soap-Service-Example.pdb
